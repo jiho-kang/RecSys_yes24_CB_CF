@@ -7,7 +7,7 @@
 [2. 프로젝트 개요](#2-프로젝트-개요)</br>
 [3. 분석 방법](#3-분석-방법)</br>
 [4. 한계 및 보완점](#4-한계-및-보완점)</br>
-[5. 해당 프로젝트의 보완점을 토대로 진행한 다음 프로젝트](#5-해당-프로젝트의-보완점을-토대로-진행한-다음-프로젝트)
+[5. Next step after lesson learned](#5-next-step-after-lesson-learned)
 
 
 # 1. 프로젝트 제목
@@ -87,7 +87,7 @@
 
 </br>
 
-## 5. 해당 프로젝트의 보완점을 토대로 진행한 다음 프로젝트
+# 5. Next step after lesson learned
 - [KoBERT를 이용한 context 태깅 추출 & 개인-정책 매칭을 위한 추천시스템 구축](https://github.com/jiho-kang/NLP_RecSys_Project)
   - 프로젝트 진행 일정을 짜고, 중요한 업무를 우선하여 진행.
   - 방법론 선정을 위해 다양하게 공부하고 기록에 남김.
