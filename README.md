@@ -32,7 +32,7 @@
 
 </br>
 
-# 3. 분석 방법
+# 3. 분석 방법 [(코드)](https://github.com/jiho-kang/RecSys_yes24_CB_CF/blob/main/RecSys_project_1_code.ipynb)
 ## 3-1. Content-Based Filtering, CB
 - 선정 이유</br>
 : 추천시스템의 가장 기본적인 방법 중 하나이며, 아이템의 특성으로 '줄거리'를 벡터화한다면 비슷한 내용의 책을 추천해줄 수 있을 것으로 생각.
